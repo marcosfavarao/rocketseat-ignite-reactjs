@@ -49,7 +49,7 @@
 ---
 
 <h2>Anotações</h2>
-Todas as anotações estão sendo realizadas pelo aplicatino <strong>Notion</strong>.
+Todas as anotações estão sendo realizadas pelo aplicativo <strong>Notion</strong>.
 
 <br>
 
