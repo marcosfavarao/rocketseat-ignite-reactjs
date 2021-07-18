@@ -42,7 +42,7 @@
 
 <h2>Projetos</h2>
   
-  - [Projeto 1 - DTMoney](https://github.com/MarcosFavarao/dt-money/security)
+  - [Projeto 1 - DTMoney](https://github.com/MarcosFavarao/dt-money)
 
 <br>
 
