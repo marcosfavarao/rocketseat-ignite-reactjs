@@ -15,7 +15,7 @@
 <h2>Aulas</h2>
 
 - [Chapter 1 - Fundamentos do ReactJS](https://github.com/MarcosFavarao/chapter1-reactjs.git)
-- [Chapter 2 - Primeira aplicação web com ReactJS](https://github.com/MarcosFavarao/dt-money.git)
+- [Chapter 2 - Primeira aplicação web com ReactJS]
 - Chapter 3
 - Chapter 4
 - Chapter 5
