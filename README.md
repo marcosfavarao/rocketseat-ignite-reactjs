@@ -43,7 +43,8 @@
 
 <h2>Projetos</h2>
   
-  - [Projeto 1 - DTMoney](https://github.com/MarcosFavarao/dt-money)
+- Projeto 1 - DTMoney
+<!--   - [Projeto 1 - DTMoney](https://github.com/MarcosFavarao/dt-money) -->
 
 <br>
 
