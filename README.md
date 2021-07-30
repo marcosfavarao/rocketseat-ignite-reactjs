@@ -15,12 +15,12 @@
 <h2>Aulas</h2>
 
 - [Chapter 1 - Fundamentos do ReactJS](https://github.com/MarcosFavarao/chapter1-reactjs.git)
-<!-- - [Chapter 2 - Primeira aplicação web com ReactJS] -->
 - Chapter 2
 - Chapter 3
 - Chapter 4
 - Chapter 5
 - Chapter 6
+<!-- - [Chapter 2 - Primeira aplicação web com ReactJS] -->
 
 <br>
 
