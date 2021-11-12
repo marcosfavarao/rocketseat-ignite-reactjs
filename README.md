@@ -14,13 +14,12 @@
 
 <h2>Aulas</h2>
 
-- [Chapter 1 - Fundamentos do ReactJS](https://github.com/MarcosFavarao/chapter1-reactjs.git)
+- Chapter 1
 - Chapter 2
 - Chapter 3
 - Chapter 4
 - Chapter 5
 - Chapter 6
-<!-- - [Chapter 2 - Primeira aplicação web com ReactJS] -->
 
 <br>
 
@@ -29,8 +28,6 @@
 <h2>Desafios</h2>
 
 - Chapter 1
-  - [Desafio - Conceitos do ReactJS](https://github.com/MarcosFavarao/desafio-conceitos-do-reactjs.git)
-  - [Desafio Complementar - Componentizando a Aplicação](https://github.com/MarcosFavarao/desafio-componentizando-a-aplicacao.git)
 - Chapter 2
 - Chapter 3
 - Chapter 4
@@ -42,9 +39,6 @@
 ---
 
 <h2>Projetos</h2>
-  
-- Projeto 1 - DTMoney
-<!--   - [Projeto 1 - DTMoney](https://github.com/MarcosFavarao/dt-money) -->
 
 <br>
 
@@ -57,4 +51,4 @@ Todas as anotações estão sendo realizadas pelo aplicativo <strong>Notion</str
 
 ---
 
-Repositório e Trilha Realizado por <strong>🚀 Marcos A. L. Favarão</strong> 
+Repositório e Trilha Realizado por <strong>🚀 Marcos A. L. Favarão</strong>
