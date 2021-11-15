@@ -6,7 +6,7 @@
 
 <h1 align='center'> Ignite Trilha ReactJS</h1>
 
-<h3 align='center'> Repositório para listar meus repositórios, aulas, desafios e aplicações feitos no <strong>Ignite - Trilha ReactJS</strong>. </h3>
+<h3 align='center'> Repositório para listar meus repositórios, aulas, desafios e aplicações feitos no <strong>Ignite Rocketseat - Trilha ReactJS</strong>. </h3>
 
 ---
 
